@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HWRoom</string>
+    <string name="change">Change</string>
+    <string name="save">Save</string>
+    <string name="btnAddNote"> +++ Add new note +++ </string>
+    <string name="delete">Delete</string>
+    <string name="setting">Setting</string>
+    <string name="back_color">back color</string>
+    <string name="text_size">text size</string>
+    <string name="color_title">color title</string>
+    <string name="text_color">text color</string>
+
+
+    <string-array name="colors">
+        <item>#FFFFFF</item>
+        <item>#FF0000</item>
+        <item>#FF8C00</item>
+        <item>#8A2BE2</item>
+        <item>#D2691E</item>
+        <item>#0000FF</item>
+        <item>#00FFFF</item>
+        <item>#00FF00</item>
+        <item>#000080</item>
+    </string-array>
+
+    <string-array name="textSize">
+        <item>8</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+    </string-array>
+</resources>
